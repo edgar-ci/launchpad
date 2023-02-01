@@ -14,3 +14,4 @@ To deploy this project run
   npm run start
 ```
 
+![plot](./screen.png)
