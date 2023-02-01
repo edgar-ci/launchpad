@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./screen.png">
+</p>
 
 # Launchpad
 Boilerplate template pug, sass and gulp
@@ -14,4 +17,4 @@ To deploy this project run
   npm run start
 ```
 
-![plot](./screen.png)
+
